@@ -1,0 +1,47 @@
+body{
+	font-family: Century Gothic, "sans-serif";
+    background: #e7d8f0;
+	margin-left: 25px;
+	color: #69328a;
+	font-weight: bold;
+}
+h2{
+    text-align: center;
+	font-size: 30px;
+	color: #431061;
+}
+form{
+	width: 500px;
+}
+label{
+	margin-bottom: 5px;
+}
+input, select{
+	width: 100%;
+	padding: 8px;
+	margin-bottom: 10px;
+	border: 1px solid #7b20b0;
+	border-radius: 100px;
+	color: #431061;
+	font-size: 14px;
+	font-style: italic;
+}
+select{
+	width: 20%;
+}
+input{
+	cursor: pointer;
+}
+button{
+	padding: 10px;
+	background: #d7bee6;
+	border-radius: 100px;
+	color: #431061;
+	font-size: 16px;
+	font-weight: bold;
+	cursor: pointer;
+	border-color: #431061;
+}
+button:hover{
+	background: #b193c2;
+}
